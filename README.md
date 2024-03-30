@@ -4,8 +4,7 @@
 
 Erstelle eine .env Datei im Root verzeichnes
 
-<details>
-<summary>Example .env</summary>
+<details><summary>Example .env</summary>
 
 ```
 SOURCE_PATH=/src
@@ -16,8 +15,7 @@ APP_URL=http://localhost
 </details>
 
 ### Routen ertsllen 
-<details>
-<summary>Example Routes</summary>
+<details><summary>Example Routes</summary>
 
 ```php
 use App\core\Router;

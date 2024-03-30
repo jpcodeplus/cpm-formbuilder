@@ -9,6 +9,5 @@
 </head>
 <body>
     <?php require __DIR__.'/../src/init.php';?>
-    
 </body>
 </html>
